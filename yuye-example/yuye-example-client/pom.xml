@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>yuye-example</artifactId>
-        <groupId>com.yuye</groupId>
+        <groupId>io.github.yuyezhiji</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -24,7 +24,7 @@
             <version>${mybatis-plus.version}</version>
         </dependency>
         <dependency>
-            <groupId>com.yuye</groupId>
+            <groupId>io.github.yuyezhiji</groupId>
             <artifactId>yuye-example-common</artifactId>
         </dependency>
     </dependencies>
