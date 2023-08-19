@@ -30,3 +30,10 @@ java springboot 提升性能的组件
 
 我会在其中 更新
 
+
+# 联系方式
+wx yuyezhiji
+
+公众号 
+
+<div align="center"> <img src="https://github.com/yuyezhiji/yuyezhiji/blob/main/yuyezhiji.jpg" /></div>
