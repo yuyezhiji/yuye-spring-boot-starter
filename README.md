@@ -10,3 +10,16 @@ java springboot 提升性能的组件
 # 要优化的点
 1 数据库执行的时候 尽量缩短消耗的时间
 2 
+
+# 使用
+<dependency>
+  <groupId>io.github.yuyezhiji</groupId>
+  <artifactId>yuye-base-common</artifactId>
+  <version>1.0-SNAPSHOT</version>
+</dependency>
+
+使用请看：
+[https://juejin.cn/user/2771238971253064](https://juejin.cn/column/7089995787152654350)https://juejin.cn/column/7089995787152654350
+
+我会在其中 更新
+
