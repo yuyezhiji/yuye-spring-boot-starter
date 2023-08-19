@@ -1,6 +1,8 @@
 # yuye-spring-boot-starter
 java springboot 提升性能的组件
 
+# 希望 不给 DBC （东北） 丢脸
+
 # 怎么让大家使用这些组件
 
 1 内部分享，让大家知道这种是性能最高的，认可这个事，也算是对技术的追求
