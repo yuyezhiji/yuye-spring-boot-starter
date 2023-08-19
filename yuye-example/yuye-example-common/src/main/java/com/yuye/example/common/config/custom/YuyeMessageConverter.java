@@ -43,21 +43,6 @@ public class YuyeMessageConverter extends FastJsonHttpMessageConverter {
         fury.register(YuyeParams.class);
     }
 
-    public static void main(String[] args) {
-        String s ="Av8BVAAF/wEWAAAJdGltZXN0YW1w/wExAM+oBPOJAQAA/wEWAAAGc3RhdHVz/wESAJABAAD/ARYAAAVlcnJvcv8BFgAAC0JhZCBSZXF1ZXN0/wEWAAAHbWVzc2FnZf8BFgAAAP8BFgAABHBhdGj/ARYAAA0vc3RvY2svcmVkdWN0";
-        Fury fury = Fury.builder().withLanguage(Language.JAVA)
-            // Allow to deserialize objects unknown types,
-            // more flexible but less secure.
-//         .withSecureMode(false)
-//        .withMetaContextShare(true)
-
-            .build();
-
-        {
-            fury.register(YuyeParams.class);
-        }
-        System.out.println(s.getBytes());
-    }
 
     @Override public Object read(Type type, Class<?> contextClass,
         HttpInputMessage inputMessage) throws IOException, HttpMessageNotReadableException {
