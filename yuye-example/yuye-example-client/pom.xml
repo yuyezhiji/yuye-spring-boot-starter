@@ -27,6 +27,8 @@
             <groupId>io.github.yuyezhiji</groupId>
             <artifactId>yuye-example-common</artifactId>
         </dependency>
+
+
     </dependencies>
 
 </project>

@@ -102,6 +102,12 @@
                 <artifactId>fury-core</artifactId>
                 <version>0.1.0</version>
             </dependency>
+
+            <dependency>
+                <artifactId>yuye-base-common</artifactId>
+                <groupId>io.github.yuyezhiji</groupId>
+                <version>1.0-SNAPSHOT</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
